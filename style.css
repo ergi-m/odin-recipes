@@ -1,0 +1,22 @@
+.header {
+    font-family: Helvetica, 'Times New Roman', Times, serif;
+    font-size: 36px;
+    text-align: center;
+    font-weight: bold;
+    color: red;
+    text-transform: uppercase;
+}
+
+.headerimg {
+    width: 360px;
+}
+
+h3 {
+    font-size: 16px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+
+.ingredients {
+    color: green;
+}
